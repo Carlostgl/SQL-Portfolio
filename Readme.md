@@ -14,13 +14,64 @@ As a beginner in data analysis, my goal was to leverage SQL for my first project
 - **Coverage**: 22 automotive brands
 ## Business Questions
 This analysis addresses the following key questions:
-1. How many automotive brands are in the dataset?
-2. Which top 10 vehicles are most fuel-efficient for city driving in the $5-10k price range? 
-3. What are the most fuel-efficient automotive options for families in both city and highway driving? 
-4. How do cylinders and weight affect engine size and performance? 
-5. Which brands have average prices above $30k? 
-6. Which Vehicle types are produced by the highest-priced automotive brands? 
-7. Which drive systems and Body types are represented among the top 10 vehicles with highest price and horsepower?
+### 1. How many automotive brands are in the dataset?
+
+   **BUSINESS INSIGHT**:
+
+   * Dataset contains 22 distinct automotive brands for comprehensive market analysis.
+   * Establishes scope of brand diversity in the dataset for further analysis.
+---
+### 2. Which top 10 vehicles are most fuel-efficient for city driving in the $5-10k price range? 
+
+   **BUSINESS INSIGHT**:
+
+   * Identifies budget vehicles with 30+ city MPG under $10k for daily commuters.
+   * Helps cost-conscious buyers reduce fuel expenses.
+---
+### 3. What are the most fuel-efficient automotive options for families in both city and highway driving? 
+<img width="789" height="775" alt="Image" src="https://github.com/user-attachments/assets/53b1d0bd-8357-49a6-b021-74b5fbc35606" />
+
+   **BUSINESS INSIGHT**:
+
+* Sedan diesel offer best combination of space and fuel efficiency for families.
+* Balanced size: spacious but not oversized like wagons.
+* Suitable for both city driving and long-distance travel.
+---
+### 4. How do cylinders and weight affect engine size and performance? 
+
+   **BUSINESS INSIGHT**:
+
+* More cylinders → heavier cars, larger engines, higher HP.
+* Range observed: 2 → 12 cylinders = 48 → 262 HP.
+* Performance gains come with reduced fuel efficiency.
+---
+
+### 5. Which brands have average prices above $30k? 
+<img width="672" height="561" alt="Image" src="https://github.com/user-attachments/assets/fa027ad8-3020-430e-9281-c75e4c8f5832" />
+
+   **BUSINESS INSIGHT**:
+
+* Premium brands include Porsche, BMW, Jaguar, Buick.
+* Shows clear price tiers in automotive market
+* Basis for competitive analysis among high-end brands.
+---
+### 6. Which Vehicle types are produced by the highest-priced automotive brands? 
+<img width="933" height="742" alt="Image" src="https://github.com/user-attachments/assets/8ffb4723-a204-4e01-8d22-cd253e9a623d" />
+
+   **BUSINESS INSIGHT**:
+* Premium brands focus on sedans and hardtops.
+* Reflects consumer preference for luxury sedans.
+* Product mix shows balance of luxury and performance.
+---
+
+### 7. Which drive systems and Body types are represented among the top 10 vehicles with highest price and horsepower?
+
+   **BUSINESS INSIGHT**:
+
+* High-performance cars typically feature RWD systems
+* Sports cars and luxury sedans dominate the premium performance segment
+* Clear relationship between horsepower, price, and drivetrain technology
+---
 ## SQL Techniques Used
 **SQL Techniques Demonstrated**
 - Data cleaning (ALTER TABLE, UPDATE with CASE)
