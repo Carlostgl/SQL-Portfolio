@@ -4,6 +4,10 @@
 - Dataset: 205 automotive records, 26 attributes.
 ## Introduction 
 As a beginner in data analysis, my goal was to leverage SQL for my first project, focusing on foundational skills. Given my interest in automotive and how brands position their products, I selected this dataset because it provided rich detail on specifications and market trends. This project not only allowed me to practice essential SQL commands but also to understand how data can answer real-world business questions. 
+## **Tools Used**
+* **Language:** SQL  
+* **Database:** SQLite  
+* **SQL Client:** DB Browser for SQLite  
 ## Dataset Description 
 - **Source**: Kaggle
 - **Size**: 205 records, 26 attributes across 22 brands.
@@ -80,15 +84,30 @@ This analysis addresses the following key questions:
 - Filtering (WHERE, HAVING, IN, BETWEEN)
 - Data formatting (CAST, ROUND, column aliases)
 - Sorting and limiting results (ORDER BY, LIMIT)
-## Insights
+## Project Insights
 - **Fuel Efficiency**: Diesel sedans provide optimal fuel economy (averaging 33 MPG) for family transportation needs.
 - **Performance Correlation**: Clear relationship between cylinder count and performance output (2-12 cylinders produce 48-262 HP respectively)
 - **Premium Market**: Four brands (Porsche, BMW, Jaguar, Buick) dominate the premium segment with average prices above $30k.
 - **Segment Focus**: Premium brands concentrate primarily on sedan and hardtop body styles.
 - **High Performance**: Porsche leads the high-performance segment, with top-tier vehicles using RWD systems.
-## Project conclusion
+## Project Conclusion
 This analysis represents my first practical application of SQL beyond tutorial exercises. Working with real automotive data taught me how to clean messy dataset and transform business questions into actionable SQL queries. The project demonstrated how data analysis can reveal market patterns, from fuel efficiency trade-offs to brand positioning strategies.
 ## Next Steps
 - Continue learning advanced SQL techniques like CTEs, window functions, and stored procedures.
 - Integrate visualization tools (Power BI) to deliver more impactful insights.
 - Apply these skills to larger datasets and complex business scenarios.
+---
+> 📌 This project was created by **Gia Lac Tien (Carlos)** in September 7, 2025. 
+### Contact Me  
+
+Looking for **Entry Data Analyst** opportunities in **Ho Chi Minh City**  
+
+👨‍💻 Gia Lac Tien (Carlos)  
+✉️ Email: tgialac1712@gmail.com  
+💼 LinkedIn: linkedin.com/in/gialactien  
+🐱 GitHub: github.com/Carlostgl  
+
+
+
+
+
